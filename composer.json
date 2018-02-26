@@ -7,12 +7,10 @@
     "spryker/kernel": "^3.16.0"
   },
   "require-dev": {
-    "spryker/silex": "*",
-    "spryker/symfony": "*"
+    "spryker/silex": "*"
   },
   "suggest": {
-    "spryker/silex": "TODO: add suggestion description",
-    "spryker/symfony": "3.0.0 for using LanguageSwitcherPluginInterface"
+    "spryker/silex": "TODO: add suggestion description"
   },
   "autoload": {
     "psr-4": {
